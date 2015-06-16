@@ -1,4 +1,4 @@
-# renderer
+# erinite/renderer
 
 Client-side template renderers
 

@@ -1,6 +1,6 @@
 # renderer
 
-A Clojure library designed to ... well, that part is up to you.
+Client-side template renderers
 
 ## Usage
 
